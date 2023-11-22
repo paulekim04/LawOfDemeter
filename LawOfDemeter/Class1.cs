@@ -27,6 +27,7 @@
         }
     }
     //TEST Feature A
+    //TEST Feature B
     public class Customer
     {
         public string FirstName { get; }
