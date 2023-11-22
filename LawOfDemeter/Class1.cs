@@ -26,7 +26,7 @@
             MoneyAmount -= amount;
         }
     }
-
+    //TEST Feature A
     public class Customer
     {
         public string FirstName { get; }
