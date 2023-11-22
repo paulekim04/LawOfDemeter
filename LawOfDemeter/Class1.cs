@@ -4,7 +4,7 @@
     {
 
     }
-
+    //TEST A
     public class Wallet
     {
         public decimal MoneyAmount { get; private set; }
