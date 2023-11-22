@@ -5,6 +5,7 @@
 
     }
     //TEST A
+    //TEST B
     public class Wallet
     {
         public decimal MoneyAmount { get; private set; }
